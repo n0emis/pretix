@@ -19,6 +19,7 @@ Resources and endpoints
    orders
    invoices
    vouchers
+   discounts
    checkinlists
    waitinglist
    customers
