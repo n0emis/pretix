@@ -8251,7 +8251,7 @@ msgstr ""
 
 #: pretix/base/settings.py:1525 pretix/base/settings.py:1535
 #, fuzzy
-#| msgid "Credit card"
+#| msgid "Credit card / ApplePay"
 msgid "All refunds are issued as gift cards"
 msgstr "Carte de crédit"
 
@@ -19716,7 +19716,7 @@ msgstr "Carte-cadeau"
 
 #: pretix/control/templates/pretixcontrol/organizers/giftcards.html:8
 #, fuzzy
-#| msgid "Credit card"
+#| msgid "Credit card / ApplePay"
 msgid "Issued gift cards"
 msgstr "Carte de crédit"
 
@@ -25984,7 +25984,7 @@ msgid "Credit card via Stripe"
 msgstr "Carte de crédit via Stripe"
 
 #: pretix/plugins/stripe/payment.py:704
-msgid "Credit card"
+msgid "Credit card / ApplePay"
 msgstr "Carte de crédit"
 
 #: pretix/plugins/stripe/payment.py:731

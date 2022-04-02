@@ -23071,7 +23071,7 @@ msgid "Credit card via Stripe"
 msgstr ""
 
 #: pretix/plugins/stripe/payment.py:704
-msgid "Credit card"
+msgid "Credit card / ApplePay"
 msgstr "Kreditkort"
 
 #: pretix/plugins/stripe/payment.py:731

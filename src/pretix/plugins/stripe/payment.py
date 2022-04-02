@@ -701,7 +701,7 @@ class StripeMethod(BasePaymentProvider):
 class StripeCC(StripeMethod):
     identifier = 'stripe'
     verbose_name = _('Credit card via Stripe')
-    public_name = _('Credit card')
+    public_name = _('Credit card / ApplePay')
     method = 'cc'
 
     def payment_form_render(self, request, total) -> str:

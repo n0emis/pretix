@@ -26178,7 +26178,7 @@ msgstr "Tarjeta de crédito a través de Stripe"
 
 #: pretix/plugins/stripe/payment.py:704
 #, fuzzy
-msgid "Credit card"
+msgid "Credit card / ApplePay"
 msgstr "Tarjeta de crédito"
 
 #: pretix/plugins/stripe/payment.py:731
